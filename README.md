@@ -1,10 +1,12 @@
 Para testar os códigos a seguir, é necessário o prompt-sync para capturar entradas do usuário no terminal. Siga as instruções abaixo caso ainda não tenha o pacote prompt-sync instalado.
 
+
 * Pré-Requisitos:
 
 Node.js instalado (versão 12+)
 
 Visual Studio Code
+
 
 
 * Passo a Passo de Instalação:
@@ -16,6 +18,7 @@ Visual Studio Code
 3 - Aguarde a instalação concluir
 
 4 - Teste a vontade
+
 
 
 * Observações:
